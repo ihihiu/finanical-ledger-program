@@ -1,0 +1,12 @@
+C:\Users\윤지은\source\repos\MoneyBook\MoneyBook\bin\Debug\MoneyBook.exe.config
+C:\Users\윤지은\source\repos\MoneyBook\MoneyBook\bin\Debug\MoneyBook.exe
+C:\Users\윤지은\source\repos\MoneyBook\MoneyBook\bin\Debug\MoneyBook.pdb
+C:\Users\윤지은\source\repos\MoneyBook\MoneyBook\obj\Debug\MoneyBook.csprojAssemblyReference.cache
+C:\Users\윤지은\source\repos\MoneyBook\MoneyBook\obj\Debug\MoneyBook.Form1.resources
+C:\Users\윤지은\source\repos\MoneyBook\MoneyBook\obj\Debug\MoneyBook.Properties.Resources.resources
+C:\Users\윤지은\source\repos\MoneyBook\MoneyBook\obj\Debug\MoneyBook.csproj.GenerateResource.cache
+C:\Users\윤지은\source\repos\MoneyBook\MoneyBook\obj\Debug\MoneyBook.csproj.CoreCompileInputs.cache
+C:\Users\윤지은\source\repos\MoneyBook\MoneyBook\obj\Debug\MoneyBook.exe
+C:\Users\윤지은\source\repos\MoneyBook\MoneyBook\obj\Debug\MoneyBook.pdb
+C:\Users\윤지은\source\repos\MoneyBook\MoneyBook\obj\Debug\MoneyBook.Form2.resources
+C:\Users\윤지은\source\repos\MoneyBook\MoneyBook\obj\Debug\MoneyBook.Form3.resources

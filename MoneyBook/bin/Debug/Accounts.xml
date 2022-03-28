@@ -1,0 +1,58 @@
+<accounts>
+<account>
+   <date>2020-11-10</date>
+   <content>급여</content>
+   <income>1000000</income>
+   <expense>0</expense>
+   <memo>알바비</memo>
+</account>
+<account>
+   <date>2020-11-15</date>
+   <content>교통비</content>
+   <income>0</income>
+   <expense>2900</expense>
+   <memo>버스비</memo>
+</account>
+<account>
+   <date>2020-12-01</date>
+   <content>쇼핑</content>
+   <income>0</income>
+   <expense>50000</expense>
+   <memo>옷</memo>
+</account>
+<account>
+   <date>2020-12-01</date>
+   <content>통신비</content>
+   <income>0</income>
+   <expense>100000</expense>
+   <memo>핸드폰 요금</memo>
+</account>
+<account>
+   <date>2020-12-01</date>
+   <content>의료비</content>
+   <income>0</income>
+   <expense>50000</expense>
+   <memo>치과</memo>
+</account>
+<account>
+   <date>2020-12-01</date>
+   <content>식비</content>
+   <income>0</income>
+   <expense>15000</expense>
+   <memo>점심값</memo>
+</account>
+<account>
+   <date>2020-12-01</date>
+   <content>교통비</content>
+   <income>0</income>
+   <expense>2900</expense>
+   <memo>버스비</memo>
+</account>
+<account>
+   <date>2020-12-02</date>
+   <content>교통비</content>
+   <income>0</income>
+   <expense>6000</expense>
+   <memo>지하철</memo>
+</account>
+</accounts>
